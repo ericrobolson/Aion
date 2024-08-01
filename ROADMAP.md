@@ -1,0 +1,6 @@
+- [ ] Implement network agnostic rollback mechanism
+- [ ] Implement 'deterministic test' mode for testing. It will run the same update loops multiple times and compare the results. If it is different it will error.
+- [ ] Implement ability to deal with desyncs
+- [ ] Implement ability to deal with frame rollovers
+- [ ] Implement ability to deal with frame drops
+- [ ] TODO: make std and no-std versions
